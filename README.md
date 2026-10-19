@@ -75,6 +75,8 @@
 
 **[Trueketeo](https://github.com/NicolasQuest/Trueketeo-ProyectoFinal-4geeks)** — a barter app (item-for-item swaps, no money). React + Redux + Bootstrap front-end, Flask back-end, PostgreSQL with SQLAlchemy, JWT auth, REST APIs and email integration.
 
+🌐 Portfolio: [NicolasPasik-Portfolio](https://github.com/NicolasQuest/NicolasPasik-Portfolio)
+
 ## 🌐 Socials
 
 <a href="https://www.linkedin.com/in/nicolas-pasik" target="_blank">
